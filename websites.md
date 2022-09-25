@@ -1,4 +1,4 @@
-1 - Kitaben (Best) (No postGre sql , No Django)<br>
+1 - Kitaben - Book recc sys (No postGre sql , No Django)<br>
     repo link - https://github.com/Praful932/Kitabe <br> 
     APi - goodbooks<br>
     preview - https://kitabe-app.herokuapp.com/<br>
